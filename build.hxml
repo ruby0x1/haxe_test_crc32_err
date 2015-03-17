@@ -1,0 +1,5 @@
+-main Test
+-js test.js
+-resource tiny.ui.png@tiny.ui.png
+-lib format
+# -D without_crc
